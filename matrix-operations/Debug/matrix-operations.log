@@ -1,0 +1,19 @@
+﻿  matrix-operations.cpp
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(181): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(177): note: while compiling class template member function 'Matrix<int> Matrix<int>::operator *(double)'
+  c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix-operations.cpp(149): note: see reference to function template instantiation 'Matrix<int> Matrix<int>::operator *(double)' being compiled
+  c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix-operations.cpp(37): note: see reference to class template instantiation 'Matrix<int>' being compiled
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(368): warning C4715: 'Matrix<double>::from_row': not all control paths return a value
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(345): warning C4715: 'Matrix<double>::inverse': not all control paths return a value
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(368): warning C4715: 'Matrix<int>::from_row': not all control paths return a value
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(391): warning C4715: 'Matrix<double>::from_column': not all control paths return a value
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(391): warning C4715: 'Matrix<int>::from_column': not all control paths return a value
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(306): warning C4715: 'Matrix<double>::determinant': not all control paths return a value
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(273): warning C4715: 'Matrix<double>::det_helper': not all control paths return a value
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(264): warning C4715: 'Matrix<double>::minor': not all control paths return a value
+c:\users\anton\source\repos\matrix-operations\matrix-operations\matrix.h(254): warning C4715: 'Matrix<double>::minor_matrix': not all control paths return a value
+  matrix-operations.vcxproj -> C:\Users\Anton\source\repos\matrix-operations\Debug\matrix-operations.exe
