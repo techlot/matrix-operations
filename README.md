@@ -1,6 +1,6 @@
 # Matrix operations
 
-Simple matrix class for performing the following matrix operations:
+Matrix class for performing the following matrix operations:
 - addition
 - substruction
 - multiplication (also multiplication by a vector and multiplication by a number)
