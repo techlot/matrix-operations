@@ -2,7 +2,7 @@
 
 Matrix class for performing the following matrix operations:
 - addition
-- substruction
+- subtruction
 - multiplication (also multiplication by a vector and multiplication by a number)
 - calculating scalar product
 - transpose of a matrix
